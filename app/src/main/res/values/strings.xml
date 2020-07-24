@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskRecycle</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="name">Name</string>
+    <string name="rollno">Rollno</string>
+</resources>
